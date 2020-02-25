@@ -15,6 +15,8 @@
   
   <img src="SCREENSHOTS/PIC2.jpg">
   
+  <img src="SCREENSHOTS/PIC3.jpg">
+  
   <img src="SCREENSHOTS/PIC4.jpg">
   
   <img src="SCREENSHOTS/PIC5.jpg">
