@@ -6,7 +6,7 @@
 * IDE: MS Visual Studio 2012
 * Backend Database: MySQL
 * MySQL GUI Tool: MySQL Workbench
-* Type of Application: Desktop Application (Windows Forms Application)  
+* Type of Application: Desktop Application (Windows Forms)  
 * Printing Report: SAP Crystal Report
 * Hashing Function: Bcrypt
 
